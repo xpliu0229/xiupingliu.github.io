@@ -12,12 +12,14 @@ Email: `xpliu@dlut.edu.cn`
 Research Interests: computer graphics, computer vision, machine learning, pattern recognition
 
 
+
 <input type="button" value="Biography" style="width:110px;height:40px;border:3px #FFC0CB double;background-color:#E6E6FA;" onclick="location.href='files/bio.md'">
 <input type="button" value="Research" style="width:110px;height:40px;border:3px #FFC0CB double;background-color:#E6E6FA;" onclick="location.href='files/research.md'">
 <input type="button" value="Publications" style="width:110px;height:40px;border:3px #FFC0CB double;background-color:#E6E6FA;" onclick="location.href='files/research.md'">
 <input type="button" value="People" style="width:110px;height:40px;border:3px #FFC0CB double;background-color:#E6E6FA;" onclick="location.href='files/people.md'">
 <input type="button" value="Tutorial" style="width:110px;height:40px;border:3px #FFC0CB double;background-color:#E6E6FA;">
 　　
+  
   　　
 	　　
     
