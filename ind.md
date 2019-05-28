@@ -3,17 +3,14 @@ layout: default
 ---
 
 ![](fengmian1_1.jpg)
+
 <img align="right" src="xiupingliu.jpg"/>  
 <font face="Times">Prof. Dr. Xiuping Liu (刘秀平)  
 
 [School of Mathematical Sciences](http://math.dlut.edu.cn/)  
-
 [Dalian University of Technology](https://www.dlut.edu.cn/)  
-
 Dalian 116024, China    
-
 Email: `xpliu@dlut.edu.cn`  
-
 Research Interests: computer graphics, computer vision, machine learning, pattern recognition  
 
 [biography](files/bio.md)
