@@ -1,6 +1,3 @@
----
-layout: default
----
 ![](fengmian1_1.jpg)
 <img align="right" src="xiupingliu.jpg"/>
 <font face="Times">Prof. Dr. Xiuping Liu (刘秀平)
